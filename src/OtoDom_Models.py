@@ -13,7 +13,7 @@ import xgboost as xgb
 import tensorflow as tf
 import os
 
-# class count and create a visualization
+# class count and create a visualization of models
 class Models:
     def __init__(self ,city):
         self.city =city
