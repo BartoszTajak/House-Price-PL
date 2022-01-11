@@ -6,9 +6,6 @@ from PySide6.QtWidgets import  *
 from datetime import datetime
 import unicodedata
 
-
-
-
 # the main class
 class App(QMainWindow):
 
