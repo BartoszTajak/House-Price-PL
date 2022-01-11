@@ -17,7 +17,7 @@ class App(QMainWindow):
         self.statusBar().showMessage('')
         self.setStyleSheet('Fusion')
 
-        # Timer which changes value (every 0.5sec) statusBar
+        # Timer which changes value (every 0.5sec) status_Bar
         self.timer = QTimer()
         self.timer.timeout.connect(self.Clock)  # clock
         self.timer.start(500)
