@@ -46,8 +46,7 @@ For example, data don't include the price of parking place which raise the total
  
 ##
 
-Below short presentation.
-https://youtu.be/MCWH2MypV8s
+
 
 
 ##  libraries used in program :
