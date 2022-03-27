@@ -241,7 +241,7 @@ class OtoDomWebScraping(QObject):
         df = pd.concat([df, Heading], axis=1)  # wstawienie do DataFrame
 
         # counting distance and duration with google API
-        gmaps = googlemaps.Client(key='AIzaSyBWuxyIs-lKzzBuExbXQwKx02NzP1aNK0g')
+        gmaps = googlemaps.Client(key='xxx')
         API_LIST_distance = []
         API_LIST_duration = []
 
